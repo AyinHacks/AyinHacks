@@ -1,7 +1,35 @@
-### Hi there 👋
+<h1>Hi, I'm Murtadho! <br/><a>Programmer</a>, <a>Cybersecurity Analyst</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Home Lab](https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954)
+  - [Hello World!](https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954)
+
+<h2>🎖️Certifications</h2>
+
+- [google professional cybersecurity certificate](https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954)
+
+
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Tutorial Active Directory Home Lab](https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954
+[youtube]: https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954
+[instagram]: https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954
+[linkedin]: https://coursera.org/share/87ea07d95caf7e6be8376ad45dd6c954
 
 <!--
-**AyinHacks/AyinHacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
